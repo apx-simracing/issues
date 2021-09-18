@@ -1,8 +1,8 @@
 ---
 name: Workshop item issue
-about: Workshop item issue
+about: Related to mods available on the steam workshop
 title: "[Workshop]"
-labels: steam-workshop
+labels: mod, steam-workshop
 assignees: ''
 
 ---
