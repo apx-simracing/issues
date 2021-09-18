@@ -1,6 +1,6 @@
 ---
 name: Non-Workshop item issue
-about: Related mods not available within steam
+about: Related to mods not available within the steam workshop
 title: "[Non-Workshop]"
 labels: mod, not-workshop
 assignees: ''
